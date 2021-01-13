@@ -1,4 +1,4 @@
-<a href="https://www.overleaf.com/read/cjnxndmzzmxq"><img src="https://raw.githubusercontent.com/Parply/Parply/master/.github/banner.png" alt="Welcome to Alexander Pinches's Github" width="100%"/></a>
+<a href="https://www.overleaf.com/read/cjnxndmzzmxq"><img src="https://raw.githubusercontent.com/Parply/Parply/master/.github/banner.png" alt="Welcome to Mustafaander Pinches's Github" width="100%"/></a>
 
 <p align="center">
 <a href="https://github.com/Parply/profile-wordcloud">
@@ -10,7 +10,7 @@
 
 <h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h3> 
 
-I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.imperial.ac.uk/">Imperial College London</a>. Primarily interested in statistics and machine learning applied to finance and banking. 
+I'm Mustafa, a recent MSci Mathematics graduate 🎓 from <a href="https://www.imperial.ac.uk/">Imperial College London</a>. Primarily interested in statistics and machine learning applied to finance and banking. 
 
 You can see my masters dissertation and accompanying source code <a href="https://github.com/Parply/PDFEmulators">here</a>.
 
@@ -132,9 +132,9 @@ HTML                     2 repos             █░░░░░░░░░░�
 <details>
 <summary> <b>📫 Contact me </b></summary>
 <p align="center">
-<a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/Mustafaander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mustafaander%20John%20Pinches-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=for-the-badge&logo=kaggle"></a>
-<a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:Mustafa_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-Mustafaander%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 </details>
 
@@ -147,6 +147,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 </p>
 
 -----
-Credits: [Alexander John Pinches](https://github.com/Parply)
+Credits: [Mustafaander John Pinches](https://github.com/Parply)
 
 Last Edited on: 05/12/2020
