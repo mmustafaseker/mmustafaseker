@@ -23,7 +23,7 @@ I'm Mustafa, a recent AÜ Statistic graduate 🎓
 <details>
 <summary> <b>📫 Contact me </b></summary>
 <p align="center">
-<a href="https://www.linkedin.com/in/mustafa-seker-205ab71a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mustafaander%20John%20Pinches-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mustafa-seker-205ab71a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MustafaSeker%20John%20Pinches-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:mustiseker.06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-MustafaSeker%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 </details>
