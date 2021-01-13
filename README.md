@@ -23,7 +23,7 @@ I'm Mustafa, a recent AÜ Statistic graduate 🎓
 <details>
 <summary> <b>📫 Contact me </b></summary>
 <p align="center">
-<a href="https://www.linkedin.com/in/Mustafaander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mustafaander%20John%20Pinches-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mustafa-seker-205ab71a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mustafaander%20John%20Pinches-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=for-the-badge&logo=kaggle"></a>
 <a href="mailto:Mustafa_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-Mustafaander%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
 </p>
@@ -31,11 +31,6 @@ I'm Mustafa, a recent AÜ Statistic graduate 🎓
 
 ------
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parply" alt="Parply" />
-    <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/followers/Parply?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
-  <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
-</p>
 
 -----
 Credits: [Mustafa Şeker](https://github.com/mmustafaseker)
