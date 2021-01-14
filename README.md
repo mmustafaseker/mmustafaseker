@@ -28,7 +28,7 @@ I'm Mustafa, a recent AÜ Statistic graduate 🎓
 <a href="mailto:mustiseker.06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-MustafaSeker%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 </details>
-[instagram]: https://www.instagram.com/bilgehangecici
+[instagram]: https://www.instagram.com/mmustafaseker
 
 
 
