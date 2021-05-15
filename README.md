@@ -1,36 +1,16 @@
+![Hey there, I'm Mustafa. I'm a software developer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
+<!--
+**CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center">
+Here are some ideas to get you started:
 
-<!--START_SECTION:wordcloud-->
- <p align='center'><img src='https://raw.githubusercontent.com/Parply/Parply/master/wordcloud/wordcloud.png' alt='Word cloud generated from my GitHub repositories' width='100%'/></p> 
- <!--END_SECTION:wordcloud-->
-</a>
-</p>
-
-<h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h3> 
-
-I'm Full-Stack Developer
-
-
-
-
-
-<!--END_SECTION:waka-->
-
-</details>
- 
-<details>
-<summary> <b>📫 Contact me </b></summary>
-<p align="center">
-<a href="https://www.linkedin.com/in/mustafa-seker-205ab71a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MustafaSeker%20John%20Pinches-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:mustiseker.06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-MustafaSeker%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
-</p>
-</details>
-
-
-
-
-Credits: [Mustafa Şeker](https://github.com/mmustafaseker)
-
-Last Edited on: 05/12/2020
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
