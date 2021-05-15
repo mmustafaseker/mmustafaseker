@@ -1,4 +1,6 @@
-  <a href="https://twitter.com/mmustafasekerr">
+<div>
+</div> 
+<a href="https://twitter.com/mmustafasekerr">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mustafaşeker/">
@@ -9,4 +11,4 @@
 </a>
 
 
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
